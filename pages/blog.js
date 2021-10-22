@@ -60,13 +60,13 @@ const useStyles = makeStyles(theme => ({
 const featuredPosts = [
   {
     title: 'Featured post',
-    date: 'Nov 12',
+    date: 'Oct 21',
     description:
       'This is a wider card with supporting text below as a natural lead-in to additional content.'
   },
   {
     title: 'Post title',
-    date: 'Nov 11',
+    date: 'Oct 22',
     description:
       'This is a wider card with supporting text below as a natural lead-in to additional content.'
   }
